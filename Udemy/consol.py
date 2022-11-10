@@ -11,3 +11,4 @@ my_range == my_other_range
 #     print(i)
 # for i in range(0,101,2):
 #     print(i)
+my_range = range(1,5)
