@@ -22,5 +22,7 @@ print(template)
 template2 = "Hola , mi nombre es {} y mi apellido es {}".format(name,last_name)
 print(template2)
 
-template = f"hola, mi nombre es {name} y mi apellido es {last_name} "
+edad = 23
+
+template = f"hola, mi nombre es {name} y mi apellido es {last_name} y tengo {edad} años "
 print(template)
